@@ -1,2 +1,8 @@
-# azure-cli
-Dockerfile for creating a Docker image with the Azure Cross-Platform Command Line Interface (CLI) tools
+#azure-cli#
+
+Azure Cross-Platform Command Line Interface (CLI) image.
+
+###How to use it###
+
+    docker run -it --rm emondek/azure-cli /bin/bash
+
